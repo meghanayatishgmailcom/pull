@@ -1,1 +1,1 @@
-print("earth")
+print("world")
